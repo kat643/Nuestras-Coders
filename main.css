@@ -1,0 +1,52 @@
+h1{
+  font-size: 18px;
+  font-family: monospace;
+  color: grey;
+  margin-bottom: 0px;
+}
+
+hr {
+  width: 7%;
+  border-width: 2px;
+  border-style: solid;
+  color: grey;
+}
+
+header {
+  width: 1000px;
+  height: 2px;
+}
+
+.contenedor {
+  width: 608px;
+  height: 406px;
+  margin-top: 14px;
+  position: absolute;
+}
+
+.square{
+  float: left;
+  width: 180px;
+  height: 180px;
+  margin: 2px;
+  background: #ffffff;
+  padding: 0px 18px 18px 0px;
+}
+
+p {
+  font-size: 10px;
+  font-weight: lighter;
+  font-family: monospace;
+  color: #fafafa;
+  text-align:right;
+  position: absolute;
+  margin: -24px 0px 0px 72px;
+
+}
+
+img{
+  height: 180px;
+  width: 180px;
+  margin: 0;
+
+}
